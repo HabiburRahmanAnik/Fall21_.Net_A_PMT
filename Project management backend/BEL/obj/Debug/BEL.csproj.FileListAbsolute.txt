@@ -1,0 +1,6 @@
+F:\11th semester\.NET\Project management\BEL\bin\Debug\BEL.dll
+F:\11th semester\.NET\Project management\BEL\bin\Debug\BEL.pdb
+F:\11th semester\.NET\Project management\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+F:\11th semester\.NET\Project management\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+F:\11th semester\.NET\Project management\BEL\obj\Debug\BEL.dll
+F:\11th semester\.NET\Project management\BEL\obj\Debug\BEL.pdb

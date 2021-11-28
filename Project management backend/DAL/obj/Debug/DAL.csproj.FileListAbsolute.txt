@@ -1,0 +1,10 @@
+F:\11th semester\.NET\Project management\DAL\bin\Debug\DAL.dll.config
+F:\11th semester\.NET\Project management\DAL\bin\Debug\DAL.dll
+F:\11th semester\.NET\Project management\DAL\bin\Debug\DAL.pdb
+F:\11th semester\.NET\Project management\DAL\bin\Debug\EntityFramework.dll
+F:\11th semester\.NET\Project management\DAL\bin\Debug\EntityFramework.xml
+F:\11th semester\.NET\Project management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\11th semester\.NET\Project management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\11th semester\.NET\Project management\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\11th semester\.NET\Project management\DAL\obj\Debug\DAL.dll
+F:\11th semester\.NET\Project management\DAL\obj\Debug\DAL.pdb
