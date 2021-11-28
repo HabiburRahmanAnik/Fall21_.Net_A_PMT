@@ -1,0 +1,77 @@
+form {
+  width: 500px;
+  background-color: #d0bfff;
+  margin: 100px auto;
+  border-radius: 11px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 50px 0px 0px 0px;
+}
+
+.form-control {
+  margin-left: 36px;
+  margin-bottom: 5px;
+}
+
+.form-control label {
+  font-size: 18px;
+  margin-bottom: 5px;
+  display: block;
+  color: #565c63;
+  font-weight: 500;
+}
+
+.form-control .input,
+textarea {
+  display: block;
+  width: 420px;
+  padding: 10px;
+  font-size: 16px;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 5px;
+  color: #3f3f3f;
+}
+
+.input:focus,
+textarea:focus {
+  background-color: #f3f0ff;
+}
+
+.actions button {
+  display: block;
+  font-size: 25px;
+  padding: 13px 16px;
+  width: 420px;
+  margin-left: 36px;
+  margin-bottom: 50px;
+  margin-top: 25px;
+  border: none;
+  background-color: #b197fc;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 5px;
+}
+
+.actions button:hover {
+  background-color: #b097fce1;
+  cursor: pointer;
+}
+
+.error-text {
+  color: #c92a2a;
+  margin: 0;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+button:disabled,
+button:disabled:hover,
+button:disabled:active {
+  background-color: #e5dbff;
+  color: #3f3f3f;
+  border-color: #ccc;
+  cursor: not-allowed;
+}

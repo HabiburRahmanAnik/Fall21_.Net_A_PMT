@@ -1,0 +1,35 @@
+header {
+  padding: 28px 96px;
+  background-color: #b197fc;
+}
+
+.link-list {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+}
+
+.link-list a:link,
+.link-list a:visited {
+  text-decoration: none;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 600;
+  display: block;
+}
+
+.link-list a:hover,
+.link-list a:active {
+    color: #eee;
+}
+
+.link-list li:last-child {
+    margin-left: auto;
+}
+
+.link-list .active:link,
+.link-list .active:visited,
+.link-list .active:active {
+    display: block;
+  border-bottom: 4px solid #f3f0ff;
+}

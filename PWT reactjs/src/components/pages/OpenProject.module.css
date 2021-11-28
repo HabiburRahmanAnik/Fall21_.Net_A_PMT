@@ -1,0 +1,28 @@
+.table {
+  line-height: 1;
+  width: 800px;
+  /* border: 1px solid #343a40; */
+  /* margin: 100px auto; */
+  margin-top: 100px;
+  border-collapse: collapse;
+  font-size: 18px;
+  margin-left: 20%;
+box-shadow: 10px 10px 10px rgba(0,0,0,0.095);
+}
+
+th,
+td {
+  /* border: 1px solid #343a40; */
+  padding: 16px 24px;
+  text-align: left;
+}
+
+thead {
+  background-color: #bac8ff;
+  color: #fff;
+  width: 25%;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #f1f3f5;
+}
